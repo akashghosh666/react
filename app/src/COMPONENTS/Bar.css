@@ -1,0 +1,24 @@
+.slidebar{
+    display: flex;
+    /* background-color: #23272A; */
+    height:100vh;
+    scroll-behavior: initial;
+    overflow:initial;
+
+
+}
+#main{
+    display: flex;
+    justify-content: space-around;
+}
+.left-bar{
+    justify-content: flex-start;
+    /* background-color: #222a2f; */
+
+
+
+}
+.righ-bar{
+    justify-content: flex end;
+}
+
